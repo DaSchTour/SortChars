@@ -23,7 +23,7 @@ $wgExtensionCredits['parserhook'][] = array(
 		'path'          =>      __FILE__,
 		'name'          =>      'SortChars',
 		'version'       =>      '0.1',
-		'author'        =>      'Mark Daly, [http://www.daschmedia.de DaSch]',
+		'author'        =>      '[http://www.daschmedia.de DaSch]',
 		'url'           =>      'http://www.mediawiki.org/wiki/Extension:SortChars',
 		'descriptionmsg'=>      'sortchars-desc',
 );
